@@ -1,0 +1,12 @@
+Sophia:cefet2023:0.00
+Noah:cefet2023:0.00
+Olivia:cefet2023:0.00
+Liam:cefet2023:0.00
+Ava:cefet2023:105.0
+Isabella:cefet2023:0.00
+Jackson:cefet2023:0.00
+Mia:cefet2023:0.00
+Aiden:cefet2023:0.00
+Lucas:cefet2023:0.00
+Caden:cefet2023:0.00
+Amelia:cefet2023:0.00
